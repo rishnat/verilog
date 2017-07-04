@@ -26,10 +26,9 @@ integer i;
 		X=i;
 		#10;
 		end
-		// Wait 100 ns for global reset to finish
+
 		#100;
         
-		// Add stimulus here
 
 	end
       
